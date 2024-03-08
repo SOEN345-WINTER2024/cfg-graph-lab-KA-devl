@@ -1,3 +1,11 @@
+# Step 1 : CFG
+# Step 2 : Node coverage for CFG
+# Step 3: Compute Edge coverage 
+# Step 4: Edge-pair coverage
+# Step 5 : EFG graph
+
+
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
