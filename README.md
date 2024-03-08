@@ -1,9 +1,18 @@
 # Step 1 : CFG
-# Step 2 : Node coverage for CFG
-# Step 3: Compute Edge coverage 
-# Step 4: Edge-pair coverage
-# Step 5 : EFG graph
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/0e6eecd0-c7f2-4fe6-8439-48aa02bd8867)
 
+# Step 2 : Node coverage for CFG
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/e5922af9-8882-4d64-95d6-57994f1910fe)
+
+# Step 3: Compute Edge coverage 
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/4c660419-edbf-4524-9b75-b2b5a38d9561)
+
+# Step 4: Edge-pair coverage
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/22b5ac42-9528-4765-91a3-2a59b7f41edc)
+
+
+# Step 5 : EFG graph
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/17c280f4-0873-4412-af7d-1921d46a5fde)
 
 
 # Soot Tutorial
