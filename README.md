@@ -14,6 +14,27 @@
 # Step 5 : EFG graph
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/17c280f4-0873-4412-af7d-1921d46a5fde)
 
+# PERSONAL APP
+### Code 
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/e35e45a4-2f41-4fd1-9f6b-8623038d4dc0)
+
+
+# Step 1 : CFG
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/47aebe6d-0b73-4ea7-9be7-2c2c7e6a8e3d)
+
+# Step 2 : NC
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/eaa9a1a5-e622-4fb1-b36e-5a0223b92867)
+
+# Step 3 : DC
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/923333e4-0375-4835-81ed-7bcf9a1bea5d)
+
+# Step 4 : EPC
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/c9650026-9cdf-4056-b55a-6aa6c80f2c07)
+
+# Step 5 : EFG graph
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-KA-devl/assets/83729449/baa536b2-1e64-46bd-bf1a-40cd6e045baa)
+
+
 
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
